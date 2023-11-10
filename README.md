@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanshu singh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Blockchain development 
+- 🌱 I’m currently learning Full-Stack Web development 
 - 💞️ I’m looking to collaborate on a best ever
 - 📫 How to reach me in out
 
