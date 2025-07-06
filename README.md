@@ -6,7 +6,7 @@ I'm passionate about coding and currently focused on becoming a Full-Stack Web D
 - I enjoy solving real-world problems through code.
 - Currently learning Full-Stack Web Development (MERN Stack and more).
 - I'm looking to collaborate on innovative and meaningful projects.
-- You can reach me via [LinkedIn](#) or email at your.email@example.com.
+- You can reach me via (https://www.linkedin.com/in/priyanshu-singh-1b6678244) or email at singpriyanshu22@gmail.com.
 
 ## Technologies I Work With
 - HTML, CSS, JavaScript, TypeScript
